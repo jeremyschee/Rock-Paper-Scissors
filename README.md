@@ -1,2 +1,2 @@
-# coding
-Repo of practice codes
+# Rock-Paper-Scissors
+Repo Rock Paper Scissors game
